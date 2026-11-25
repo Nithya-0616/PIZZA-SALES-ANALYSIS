@@ -97,6 +97,7 @@ DAX measures were created to calculate revenue, distinct orders, total pizzas so
 | `PIZZA DATA.pbix` | Interactive Power BI report |
 | `PIZZA DASHBOARD.png` | Dashboard preview |
 
+
 ## Dashboard Preview
 
 ![Pizza Sales Dashboard](PIZZA%20DASHBOARD.png)
@@ -104,6 +105,12 @@ DAX measures were created to calculate revenue, distinct orders, total pizzas so
 ## Skills Demonstrated
 
 Power BI · DAX · Power Query · Data Cleaning · Data Transformation · Data Modelling · KPI Development · Business Intelligence · Data Visualization · Business Analysis
+
+## Documentation
+
+For a detailed explanation of the dataset, data preparation, Power Query transformations, DAX measures and analytical methodology, refer to:
+
+[View Analysis Methodology](ANALYSIS_METHODOLOGY.md)
 
 ## Author
 
